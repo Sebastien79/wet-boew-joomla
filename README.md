@@ -19,11 +19,11 @@ git@github.com:Sebastien79/distantia-wet-boew-joomla.git
 
 Contact
 
-If you need more help you can contact us.
+If you need more help you can contact us.<br>
 Si vous avez besoin d'aide supplémentaire contactez-nous.
 
-www.distantia.ca
-172 rue de la Canipco Gatineau Qc J8P 4B1
-819 893 0860
-1 877 503 6210
+www.distantia.ca<br>
+172 rue de la Canipco Gatineau Qc J8P 4B1<br>
+819 893 0860<br>
+1 877 503 6210<br>
 sgiroux@distantia.ca
