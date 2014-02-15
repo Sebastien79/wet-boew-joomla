@@ -12,7 +12,7 @@ For more information visit https://github.com/Sebastien79/distantia-wet-boew-joo
 
 or clone distantia-wet-boew-joomla at:
 
-via https: `https://github.com/Sebastien79/distantia-wet-boew-joomla.git`<br>
+via HTTPS: `https://github.com/Sebastien79/distantia-wet-boew-joomla.git`<br>
 via SSH: `git@github.com:Sebastien79/distantia-wet-boew-joomla.git`
 
 
