@@ -18,6 +18,7 @@ git@github.com:Sebastien79/distantia-wet-boew-joomla.git
 
 
 Contact
+----------------------------------------------
 
 If you need more help you can contact us.<br>
 Si vous avez besoin d'aide supplémentaire contactez-nous.
