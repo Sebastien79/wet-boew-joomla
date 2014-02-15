@@ -3,6 +3,11 @@ wet-boew-joomla
 
 Joomla variant of the Web Experience Toolkit (WET).
 
+
+Exemple website using distantia-wet-boew-joomla:
+http://fpcc-cpac.distantia.ca/index.php?lang=en-GB
+http://fpcc-cpac.distantia.ca/index.php?lang=fr-FR
+
 For more information visit https://github.com/Sebastien79/distantia-wet-boew-joomla
 
 or clone distantia-wet-boew-joomla at:
