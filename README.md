@@ -5,8 +5,8 @@ Joomla variant of the Web Experience Toolkit (WET).
 
 
 Exemple website using distantia-wet-boew-joomla:<br>
-http://fpcc-cpac.distantia.ca/index.php?lang=en-GB<br>
-http://fpcc-cpac.distantia.ca/index.php?lang=fr-FR
+http://www.fpcc-cpac.gc.ca/index.php/fr-FR<br>
+http://www.fpcc-cpac.gc.ca/index.php/en-GB
 
 For more information visit https://github.com/Sebastien79/distantia-wet-boew-joomla
 
